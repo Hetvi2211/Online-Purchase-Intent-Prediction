@@ -5,7 +5,6 @@ Predict whether an online shopping session results in a **purchase** based on br
 ## 🚀 Project Highlights
 - **Models:** DecisionTreeClassifier, KNN, KNeighborsClassifier, LogisticRegression, RandomForestClassifier
 - **Techniques:** Feature scaling, PCA, SMOTE, Train/Test Split
-- **Evaluation:** ACCURACY
 - **Notebook:** `Online_Purchase_Intent.ipynb`
 - **Dataset:** `online_shoppers_intention.csv`
 
